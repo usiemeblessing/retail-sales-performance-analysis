@@ -1,7 +1,9 @@
-To open the python file, you will need to install
+To be able to run the python script, you will need to install these libraries
 
-pandas
-numpy
-matplotlib
-openpyxl
-jupyter
+- python
+- jupyter
+- pandas
+- numpy
+- matplotlib
+- openpyxl
+- seaborne
