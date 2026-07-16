@@ -103,6 +103,17 @@ This analysis answers the following questions:
 
 *To be updated with findings from the analysis.*
 
+Lagos generated the highest revenue, contributing X% of total sales.
+Electronics was the best-performing category, accounting for X% of total revenue.
+Revenue peaked in Month and was lowest in Month, indicating seasonal demand.
+Customer Name generated the highest lifetime revenue.
+Product Name was the highest-revenue product across all categories.
+Payment Method was the most preferred payment option, representing X% of all transactions.
+Category recorded the highest return rate, exceeding the overall average of X%.
+Orders with longer delivery times experienced significantly higher return rates.
+Salesperson Name generated the highest sales revenue and order volume.
+The business recorded ₦X in revenue from X orders with an average order value of ₦X.
+
 ---
 
 ## 🚀 Recommendations
