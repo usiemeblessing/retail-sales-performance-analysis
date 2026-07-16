@@ -169,4 +169,4 @@ retail-sales-performance-analysis/
 
 **Data Analyst | Basic Front-End Developer**
 
-GitHub: https://github.com/blessingusieme
+GitHub: https://github.com/usiemeblessing
